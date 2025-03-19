@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Welcome to My Academic Homepage
 
 Hello, and thank you for visiting my academic homepage. I am [Your Name], a dedicated researcher and educator with a passion for advancing knowledge and fostering innovation in my field.
